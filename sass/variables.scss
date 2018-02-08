@@ -1,0 +1,24 @@
+$font_family: 'GothamPro';
+$yeseva: 'Yeseva One', cursive;
+$base_font_size: 16px;
+$container_width: 1170px;
+$white: #fff;
+$black: #000;
+$cols_padding: 15px;
+$laptop: 1200px;
+$tablet: 992px;
+$phone: 767px;
+$mobile: 600px;
+@mixin flexbox() {
+    display: flex;
+}
+@mixin clear() {
+    content: '';
+    display: table;
+    clear: both;
+}
+@mixin transition () {
+    transition: 0.4s;
+    -webkit-transition: 0.4s;
+    -moz-transition: 0.4s;
+}
