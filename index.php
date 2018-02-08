@@ -4,8 +4,6 @@
       <? include ('tpl/head.tpl') ?>
   </head>
   <body>
-
-
       <? include ('tpl/scripts.tpl') ?>
   </body>
 
