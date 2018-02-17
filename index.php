@@ -8,5 +8,4 @@
     <? include ('tpl/footer.tpl') ?>
     <? include ('tpl/scripts.tpl') ?>
   </body>
-
 </html>
