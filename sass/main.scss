@@ -1,19 +1,17 @@
-@import "_variables.scss";
-
-@import "../libs/remodal/_remodal.scss";
-@import "../libs/flickity/_flickity.scss";
-
-@import "_fonts.scss";
-@import "_normalize.scss";
-@import "_grid.scss";
-@import "_base.scss";
-@import "_layout.scss";
-@import "_text-formatted.scss";
-@import "_buttons.scss";
-@import "_form.scss";
-@import "_header.scss";
-@import "_nav.scss";
-@import "_footer.scss";
-@import "_alerts.scss";
-@import "_headers.scss";
-@import "_contacts.scss";
+@import "variables",
+        "../libs/remodal/remodal",
+        "../libs/flickity/flickity",
+        "fonts",
+        "normalize",
+        "grid",
+        "base",
+        "layout",
+        "text-formatted",
+        "buttons",
+        "form",
+        "header",
+        "nav",
+        "footer",
+        "alerts",
+        "headers",
+        "contacts";
